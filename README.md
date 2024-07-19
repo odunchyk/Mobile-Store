@@ -19,9 +19,9 @@ Welcome to the Nice Gadgets Store, an e-commerce platform for selling gadgets.
 
 # Tech-stack
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, React
 - Backend: Node.js, Express
-- Database: MongoDB
+- Database: PostgreSQL
 - Localization: i18n
 - Chat-bot: Integrated using Chatbot API
 
